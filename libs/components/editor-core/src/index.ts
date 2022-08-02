@@ -19,3 +19,5 @@ export * from './drag-drop-wrapper';
 export * from './block-content-wrapper';
 
 export * from './editor';
+
+export { SubPageProvider, useSubPage } from './sub-page';
