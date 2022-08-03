@@ -20,4 +20,4 @@ export * from './block-content-wrapper';
 
 export * from './editor';
 
-export { SubPageProvider, useSubPage } from './sub-page';
+export { RefPageProvider, useRefPage } from './ref-page';
